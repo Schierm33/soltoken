@@ -2,5 +2,5 @@
   "name": "Capy token",
   "symbol": "CAPY",
   "description": "Example token from Solana Making a Token guide.",
-  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+  "image": "https://raw.githubusercontent.com/Schierm33/soltoken/refs/heads/main/capy512.png"
 }
