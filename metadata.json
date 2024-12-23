@@ -1,6 +1,6 @@
 {
-  "name": "Capy token",
-  "symbol": "CAPY",
-  "description": "Example token from Solana Making a Token guide.",
+  "name": "Test token",
+  "symbol": "TEST",
+  "description": "Example TEST token from Solana Making a Token guide.",
   "image": "https://raw.githubusercontent.com/Schierm33/soltoken/refs/heads/main/capy512.png"
 }
